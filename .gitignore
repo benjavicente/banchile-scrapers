@@ -1,0 +1,13 @@
+# cache
+.mypy_cache/
+
+# venv
+.venv/
+__pycache__/
+
+# secrets
+.env
+
+# output
+output/
+
